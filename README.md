@@ -1,10 +1,8 @@
 # Machine-Learning-Predictions-Housing-Prices-Titanic-Survival-D-atasets
 
-# COMP1816 Machine Learning Coursework
 
 ## Author
 **Iustin-Andrei Moisa-Tudor**  
-Student ID: 001228763
 
 ## Overview
 This project covers two main machine learning tasks:  
